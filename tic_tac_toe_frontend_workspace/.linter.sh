@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/fluttertictactoe-57079-15428c70/tic_tac_toe_frontend_workspace/tic_tac_toe_frontend
+flutter analyze
+
